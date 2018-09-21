@@ -1,0 +1,1 @@
+angular.module('firstModule',['ui.router', 'app.components']);
